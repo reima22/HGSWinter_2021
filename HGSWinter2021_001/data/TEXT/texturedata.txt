@@ -1,0 +1,60 @@
+#----------------------------------------------------------------------------------------------------
+#
+# テクスチャファイル名パス一覧
+# Author : Mare Horiai
+#
+#----------------------------------------------------------------------------------------------------
+SCRIPT
+
+#----------------------------------------------------------------------------------------------------
+# テクスチャの数
+#----------------------------------------------------------------------------------------------------
+NUM_TEXTURE = 38
+
+#----------------------------------------------------------------------------------------------------
+# テクスチャファイル名 + 識別用文字列
+#----------------------------------------------------------------------------------------------------
+TEXTURE_FILENAME = data\TEXTURE\player_cloth00.jpg 			PLAYER_TEX0			# [0]プレイヤーテクスチャ
+TEXTURE_FILENAME = data\TEXTURE\player_cloth01.jpg 			PLAYER_TEX1			# [1]プレイヤーテクスチャ
+TEXTURE_FILENAME = data\TEXTURE\block.jpg					BLOCK_TEX			# [2]ブロック
+TEXTURE_FILENAME = data\TEXTURE\title_bg.png				TITLE_BG			# [3]タイトル背景
+TEXTURE_FILENAME = data\TEXTURE\title000.png				TITLE_LOGO			# [4]タイトルロゴ
+TEXTURE_FILENAME = data\TEXTURE\press_enter.png				TITLE_ENTER			# [5]タイトルエンターサイン
+TEXTURE_FILENAME = data\TEXTURE\game_bg.png					GAME_BG				# [6]ゲーム背景
+TEXTURE_FILENAME = data\TEXTURE\result_bg.jpg				RESULT_BG			# [7]リザルト背景
+TEXTURE_FILENAME = data\TEXTURE\GameClear.png				RESULT_LOGO_CLEAR	# [8]リザルトロゴクリア
+TEXTURE_FILENAME = data\TEXTURE\GameOver.png				RESULT_LOGO_OVER	# [9]リザルトロゴゲームオーバー
+TEXTURE_FILENAME = data\TEXTURE\ranking_bg.png				RANKING_BG			# [10]ランキング背景
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo.png			RANKING_LOGO		# [11]ランキングロゴ	
+TEXTURE_FILENAME = data\TEXTURE\ranking_rank.png			RANKING_RANK		# [12]ランキング順位
+TEXTURE_FILENAME = data\TEXTURE\yourscore.png				RANKING_YOURSCORE	# [13]ランキング画面のリザルトスコアロ
+TEXTURE_FILENAME = data\TEXTURE\number000.png				NUMBER				# [14]ナンバー
+TEXTURE_FILENAME = data\TEXTURE\explosion000.png			EXPLOSION			# [15]爆発
+TEXTURE_FILENAME = data\TEXTURE\effect000.jpg				EFFECT				# [16]エフェクト
+TEXTURE_FILENAME = data\TEXTURE\pause_BS.png				PAUSE_BS			# [17]ポーズベース
+TEXTURE_FILENAME = data\TEXTURE\pause_continue.png			PAUSE_CONTINUE		# [18]ポーズコンテニュー
+TEXTURE_FILENAME = data\TEXTURE\pause_retry.png				PAUSE_RETRY			# [19]ポーズリトライ
+TEXTURE_FILENAME = data\TEXTURE\pause_quit.png				PAUSE_QUIT			# [20]ポーズ終了
+TEXTURE_FILENAME = data\TEXTURE\window_effect.png			WINDOW_EFFECT		# [21]画面エフェクト
+TEXTURE_FILENAME = data\TEXTURE\shadow000.jpg				SHADOW				# [22]丸影テクスチャ
+TEXTURE_FILENAME = data\TEXTURE\Tex006.jpg					TEX6				# [23]テクスチャ
+TEXTURE_FILENAME = data\TEXTURE\ui_time.png					TIMER_LOGO			# [24]タイマーロゴ
+TEXTURE_FILENAME = data\TEXTURE\ui_fall.png					FALL_LOGO			# [25]落下数ロゴ
+TEXTURE_FILENAME = data\TEXTURE\go.png						GO					# [26]スタートカウントGO
+TEXTURE_FILENAME = data\TEXTURE\one.png						ONE					# [27]スタートカウント1
+TEXTURE_FILENAME = data\TEXTURE\two.png						TWO					# [28]スタートカウント2
+TEXTURE_FILENAME = data\TEXTURE\three.png					THREE				# [29]スタートカウント3
+TEXTURE_FILENAME = data\TEXTURE\stage_select.png			SELECT_LOGO			# [30]ステージ選択ロゴ
+TEXTURE_FILENAME = data\TEXTURE\arrow.png					SELECT_ARROW		# [31]選択矢印
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo_retry.png		RANKING_RETRY		# [32]ランキングリトライ
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo_stage.png		RANKING_STAGE		# [33]ランキングステージ
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo_title.png		RANKING_QUIT		# [34]ランキング終了
+TEXTURE_FILENAME = data\TEXTURE\game_result_clear.png		G_RESULT_CLEAR		# [35]ゲーム画面結果ロゴクリア
+TEXTURE_FILENAME = data\TEXTURE\game_result_gameover.png	G_RESULT_GAMEOVER	# [36]ゲーム画面結果ロゴゲームオーバー
+TEXTURE_FILENAME = data\TEXTURE\bonuslogo.png				BONUS_LOGO			# [37]ボーナスロゴ
+TEXTURE_FILENAME = data\TEXTURE\sign_merry.jpg				SIGN_MERRY			# [38]メリーサイン
+TEXTURE_FILENAME = data\TEXTURE\sign_xmas.jpg				SIGN_XMAS			# [39]クリスマスサイン
+
+
+
+END_SCRIPT
