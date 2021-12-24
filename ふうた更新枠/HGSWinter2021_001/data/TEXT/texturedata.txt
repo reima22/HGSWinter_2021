@@ -1,0 +1,67 @@
+#----------------------------------------------------------------------------------------------------
+#
+# テクスチャファイル名パス一覧
+# Author : Mare Horiai
+#
+#----------------------------------------------------------------------------------------------------
+SCRIPT
+
+#----------------------------------------------------------------------------------------------------
+# テクスチャの数
+#----------------------------------------------------------------------------------------------------
+NUM_TEXTURE = 47
+
+#----------------------------------------------------------------------------------------------------
+# テクスチャファイル名 + 識別用文字列
+#----------------------------------------------------------------------------------------------------
+TEXTURE_FILENAME = data\TEXTURE\player_cloth00.jpg 			PLAYER_TEX0			# [0]プレイヤーテクスチャ
+TEXTURE_FILENAME = data\TEXTURE\player_cloth01.jpg 			PLAYER_TEX1			# [1]プレイヤーテクスチャ
+TEXTURE_FILENAME = data\TEXTURE\block.jpg					BLOCK_TEX			# [2]ブロック
+TEXTURE_FILENAME = data\TEXTURE\title_bg.jpg				TITLE_BG			# [3]タイトル背景
+TEXTURE_FILENAME = data\TEXTURE\title_name.png				TITLE_LOGO			# [4]タイトルロゴ
+TEXTURE_FILENAME = data\TEXTURE\game_bg.png					GAME_BG				# [5]ゲーム背景
+TEXTURE_FILENAME = data\TEXTURE\result_bg.jpg				RESULT_BG			# [6]リザルト背景
+TEXTURE_FILENAME = data\TEXTURE\GameClear.png				RESULT_LOGO_CLEAR	# [7]リザルトロゴクリア
+TEXTURE_FILENAME = data\TEXTURE\GameOver.png				RESULT_LOGO_OVER	# [8]リザルトロゴゲームオーバー
+TEXTURE_FILENAME = data\TEXTURE\ranking_bg.png				RANKING_BG			# [9]ランキング背景
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo.png			RANKING_LOGO		# [10]ランキングロゴ	
+TEXTURE_FILENAME = data\TEXTURE\ranking_rank.png			RANKING_RANK		# [11]ランキング順位
+TEXTURE_FILENAME = data\TEXTURE\yourscore.png				RANKING_YOURSCORE	# [12]ランキング画面のリザルトスコアロ
+TEXTURE_FILENAME = data\TEXTURE\number000.png				NUMBER				# [13]ナンバー
+TEXTURE_FILENAME = data\TEXTURE\explosion000.png			EXPLOSION			# [14]爆発
+TEXTURE_FILENAME = data\TEXTURE\effect000.jpg				EFFECT				# [15]エフェクト
+TEXTURE_FILENAME = data\TEXTURE\pause_BS.png				PAUSE_BS			# [16]ポーズベース
+TEXTURE_FILENAME = data\TEXTURE\pause_continue.png			PAUSE_CONTINUE		# [17]ポーズコンテニュー
+TEXTURE_FILENAME = data\TEXTURE\pause_retry.png				PAUSE_RETRY			# [18]ポーズリトライ
+TEXTURE_FILENAME = data\TEXTURE\pause_quit.png				PAUSE_QUIT			# [19]ポーズ終了
+TEXTURE_FILENAME = data\TEXTURE\window_effect.png			WINDOW_EFFECT		# [20]画面エフェクト
+TEXTURE_FILENAME = data\TEXTURE\shadow000.jpg				SHADOW				# [21]丸影テクスチャ
+TEXTURE_FILENAME = data\TEXTURE\Tex006.jpg					TEX6				# [22]テクスチャ
+TEXTURE_FILENAME = data\TEXTURE\ui_time.png					TIMER_LOGO			# [23]タイマーロゴ
+TEXTURE_FILENAME = data\TEXTURE\ui_fall.png					FALL_LOGO			# [24]落下数ロゴ
+TEXTURE_FILENAME = data\TEXTURE\go.png						GO					# [25]スタートカウントGO
+TEXTURE_FILENAME = data\TEXTURE\one.png						ONE					# [26]スタートカウント1
+TEXTURE_FILENAME = data\TEXTURE\two.png						TWO					# [27]スタートカウント2
+TEXTURE_FILENAME = data\TEXTURE\three.png					THREE				# [28]スタートカウント3
+TEXTURE_FILENAME = data\TEXTURE\stage_select.png			SELECT_LOGO			# [29]ステージ選択ロゴ
+TEXTURE_FILENAME = data\TEXTURE\arrow.png					SELECT_ARROW		# [30]選択矢印
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo_retry.png		RANKING_RETRY		# [31]ランキングリトライ
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo_stage.png		RANKING_STAGE		# [32]ランキングステージ
+TEXTURE_FILENAME = data\TEXTURE\ranking_logo_title.png		RANKING_QUIT		# [33]ランキング終了
+TEXTURE_FILENAME = data\TEXTURE\game_result_clear.png		G_RESULT_CLEAR		# [34]ゲーム画面結果ロゴクリア
+TEXTURE_FILENAME = data\TEXTURE\game_result_gameover.png	G_RESULT_GAMEOVER	# [35]ゲーム画面結果ロゴゲームオーバー
+TEXTURE_FILENAME = data\TEXTURE\bonuslogo.png				BONUS_LOGO			# [36]ボーナスロゴ
+TEXTURE_FILENAME = data\TEXTURE\sign_merry.jpg				SIGN_MERRY			# [37]メリーサイン
+TEXTURE_FILENAME = data\TEXTURE\sign_xmas.jpg				SIGN_XMAS			# [38]クリスマスサイン
+TEXTURE_FILENAME = data\TEXTURE\game_move.png				GAME_MODE_MOVE		# [39]ゲームモードに移動
+TEXTURE_FILENAME = data\TEXTURE\tutorial_move.png			TUTORIAL_MODE_MOVE	# [40]チュートリアルモードに移動
+TEXTURE_FILENAME = data\TEXTURE\rule0.png					TUTORIAL0	# [40]チュートリアルモードに移動
+TEXTURE_FILENAME = data\TEXTURE\rule1.png					TUTORIAL1	# [40]チュートリアルモードに移動
+TEXTURE_FILENAME = data\TEXTURE\rule2.png					TUTORIAL2	# [40]チュートリアルモードに移動
+TEXTURE_FILENAME = data\TEXTURE\rule3.png					TUTORIAL3	# [40]チュートリアルモードに移動
+TEXTURE_FILENAME = data\TEXTURE\rule4.png					TUTORIAL4	# [40]チュートリアルモードに移動
+TEXTURE_FILENAME = data\TEXTURE\rule5.png					TUTORIAL5	# [40]チュートリアルモードに移動
+
+
+
+END_SCRIPT
